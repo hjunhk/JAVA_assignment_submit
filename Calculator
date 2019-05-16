@@ -124,4 +124,10 @@ public class Calculator extends JFrame implements ActionListener {
 	public static void main(String[] args) {
 		Calculator s = new Calculator();
 	}
+
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
 }
